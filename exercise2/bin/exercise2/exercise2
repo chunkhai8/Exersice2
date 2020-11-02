@@ -1,0 +1,63 @@
+Q1:
+Input a number: 5
+5x1=5
+5x2=10
+5x3=15
+5x4=20
+5x5=25
+5x6=30
+5x7=35
+5x8=40
+5x9=45
+5x10=50
+
+Q2
+Perimeter is 57.6796411199086
+Area is 264.74955274038047
+
+Q3
+Perimeter is 2*(8.4 + 6.5) = 29.80 
+Area is 8.4 * 6.5 = 54.60 
+
+Q4
+Input seconds: 45678
+12:41:18
+
+Q5
+Input 1st number: 8
+Input 2nd number: 4
+Input 3rd number: 10
+Average is: 7
+
+Q6
+Before swapping: a, b = 12,87
+After swapping: a, b = 87,12
+
+Q7
+Input 1st number: 8
+Input 2nd number: 7
+8x7=56
+
+Q8
+Input 1st number: 34
+Input 2nd number: 87
+34 != 87
+34 < 87
+34 <= 87
+
+Q9
+Input 1st number: 9
+Input 2nd number: 5
+9+5=14
+9-5=4
+9x5=45
+9+5=1
+9mod5=4
+
+Q10
+Divided by 2:
+2,4,6,8,10,12,14,16,18,20,22,24,26,28,30,32,34,36,38,40,42,44,46,48,
+Divided by 5:
+5,10,15,20,25,30,35,40,45,
+Divided by 10:
+10,20,30,40,
